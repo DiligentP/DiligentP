@@ -1,4 +1,4 @@
-DevOps 엔지니어 박정현입니다...
+DevOps 엔지니어 박정현입니다!
 
 <!--
 **DiligentP/diligentp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
